@@ -1,1 +1,3 @@
-# coding_exersise-
+# Coding exercise 
+Please run using sbt run
+
